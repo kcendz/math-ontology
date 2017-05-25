@@ -10,13 +10,13 @@
 $ mvn clean install
 ```
 ##### 6)Открыть cmd ,либо в терминале в папке server\target ввести комнаду 
-```sh $java -jar web-wiki-0.0.1-SNAPSHOT.jar
+```sh $ java -jar web-wiki-0.0.1-SNAPSHOT.jar
 ```
 ##### 7)Войти в браузер и проверить работу сервера localhost:8090\test
 ##### 8)Если возникнут проблемы с портом ,то в папке server\src\main\resources\application.properties изменить порт на свободный 
 ##### 9)Открыть cmd перейти в папку client
 ##### 10)Ввести команду 
-```sh $ng serve
+```sh $ ng serve
 ```
 
 ##### 11)Перейти на localhost:4200
